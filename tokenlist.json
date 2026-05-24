@@ -1,0 +1,19 @@
+{
+  "name": "Dirham World Halal Token List",
+  "timestamp": "2026-05-24T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x559e10189ece533bf0c289961eeff1bb41755cb3",
+      "name": "Dirham World Halal",
+      "symbol": "DWH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Dirhamworldhalal-DWH/Dirhamworldhalal-DWH-/main/logo.png"
+    }
+  ]
+}
